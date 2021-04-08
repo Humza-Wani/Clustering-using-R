@@ -1,2 +1,2 @@
 # Clustering-using-R
-A clustering machine learning algorithm with given data set.
+A  hierarchical clustering machine learning algorithm with given claimants data set implemented using R.
